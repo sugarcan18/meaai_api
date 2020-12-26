@@ -1,0 +1,21 @@
+To: sugarcan19@gmail.com
+Subject: Enquiry : Northern Smile Travel
+MIME-Version: 1.0
+Content-type:text/html;charset=UTF-8
+From: it@touringcnx.com
+
+
+      <html>
+          <head></head>
+          <body style='min-width: 800px;'>
+
+
+
+              <!-- Footer -->
+              <div class='block-layer'>
+                  <p class='text-center' style='text-align: center;'>คุณได้รับอีเมลนี้เพื่อแจ้งให้ทราบเกี่ยวกับการเปลี่ยนแปลงสำคัญในบัญชีและบริการต่างๆ ของคุณ</p>
+                  <p class='text-center' style='text-align: center;'>Touring Center 14 1<sup>st</sup> floor Soi5, Rachadamnoen Rd., Sriphum, Muang, Chiang Mai 50200</p>
+                  <p class='text-center' style='text-align: center;'>Tel. : +66 (0)53 289 644-5 &nbsp; Fax : +66 (0)53 289 659 &nbsp; Mobile : +66 (0)88 258 5817 &nbsp; Email : touringcenter@hotmail.com</p>
+              </div>
+          </body>
+      </html>

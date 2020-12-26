@@ -1,0 +1,81 @@
+To: it@touringcnx.com
+Subject: Touring Center Reservation System (Paid)
+MIME-Version: 1.0' . 
+Content-type: text/html; charset=utf-8
+From: reservations@touringcnx.com
+
+
+          <div style="width:80%;border:solid 1px #bababa;"><h2 align="center">Thanks for Update booked, with us, you can click <a style="color:red;" href="http://tour-in-chiangmai.com/promotions2020/#/booking/updatebooking/MTc2NA==" >UPDATE</a> to edit booked agian.</h2></div>
+          <div align="right" style="padding:5px;">
+                <a href="http://tour-in-chiangmai.com/promotions2020/#/booking/invoice/MTc2NA=="><img src="http://tour-in-chiangmai.com/images/invoice-mail.png"></a>
+              </div>
+              <table border="0" cellpadding="1" cellspacing="0" width="100%" align="center">
+                    <tr>
+                      <td cellpadding="1" rowspan="2"><img src="http://www.tour-in-chiangmai.com/image/login_logo1.png"></td>
+                      <td style="text-align:right;"><font size="4">Created date : 2020-05-19 </font></td>
+                    </tr>
+                    <tr>
+                      <td style="text-align:right;"><font size="4">Status : <span style="color:green;">Update</span></font></td>
+                    </tr>
+                  </table>
+                  <br>
+          
+                  <table style="border:#a4a4a4 solid 1px;" cellpadding="0" cellspacing="0" width="100%" align="center">
+                    <tr>
+                      <td style="background-color:red; width:25%; text-align:center;"><span style="font-size:20px; color:white; line-height:50%; text-align:center;">Booking</span></td>
+                      <td colspan="3" style="background-color:black; padding:20px; text-align:right;"><span style="font-size:20px; color:white; line-height:50%; padding-right:10px;">OL-P-1764</span></td>
+                    </tr><tr>
+                      <td style="border-right:1px solid #a4a4a4; border-bottom:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">Program</span></td>
+                      <td colspan="3" style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;">Inthanon National Park</font><font color="red"> (join )</font></td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:1px solid #a4a4a4; border-bottom:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">Traveling date</span></td>
+                      <td style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;border-right:1px solid #a4a4a4;">12 January 2021</td>
+                      <td colspan="2" style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;">08.30 a.m. – 05.00 p.m.</td>
+                    </tr><tr>
+                      <td style="border-right:1px solid #a4a4a4; border-bottom:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">Program</span></td>
+                      <td colspan="3" style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;">City Temple & Museum</font><font color="red"> (join )</font></td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:1px solid #a4a4a4; border-bottom:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">Traveling date</span></td>
+                      <td style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;border-right:1px solid #a4a4a4;">13 January 2021</td>
+                      <td colspan="2" style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;">01.30 p.m. – 05.00 p.m.</td>
+                    </tr><tr>
+                      <td style="border-right:1px solid #a4a4a4;border-bottom:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">No. of Traveller</span></td>
+                      <td style="font-size:18px; padding:10px 10px;border-right:1px solid #a4a4a4;border-bottom:1px solid #a4a4a4;">Adult 4 x 2000 = 8000 ฿</td>
+                      <td style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;border-right:1px solid #a4a4a4;">Child 0 x 1200 = 0 ฿</td>
+                      <td style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;">Infant 0 pax</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">Total</span></td>
+                      <td style="font-size:18px; padding:10px 10px;border-right:1px solid #a4a4a4;"><font color="green">8000 ฿</font></td>
+                      <td style="font-size:18px; padding:10px 10px;"> Status : <font color="green">Update</font></td>
+                    </tr>
+                  </table><br><br>
+                  <table style="border:#a4a4a4 solid 1px;" cellpadding="0" cellspacing="0" width="100%" align="center">
+                    <tr>
+                      <td style="background-color:red; width:25%; text-align:center;"><span style="font-size:20px; color:white; line-height:50%; text-align:center;">Customers</span></td>
+                      <td colspan="6" style="background-color:black; padding:20px; text-align:right;"><span style="font-size:20px; color:white; line-height:50%; padding-right:10px;">Details</span></td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:1px solid #a4a4a4; border-bottom:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">Name</span></td>
+                      <td colspan="5" style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;border-right:1px solid #a4a4a4;">siripong sanprom</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:1px solid #a4a4a4; border-bottom:1px solid #a4a4a4;"><span style="font-size:18px; line-height:50%; text-align:center; padding:10px 10px;">Phone | E-mail</span></td>
+                      <td colspan="3" style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;border-right:1px solid #a4a4a4;"> sugarcan19@gmail.com </td>
+                      <td colspan="3" style="font-size:18px; padding:10px 10px;border-bottom:1px solid #a4a4a4;"> 0882377022 </td>
+                    </tr>
+                  </table>
+          
+                  <center><table width="80%">
+                    <tr align="center"><td>14 (1<sup>st</sup> Floor), Ratchadamnoen Rd., Soi 5, Sriphum, Muang, Chiang Mai 50200 Thailand.</td></tr>
+                    <tr align="center"><td>Mobile : +66(0)88 258 5817 Tel : +66(0)53 289 644 Fax : +66(0)53 289 646</td></tr>
+                    <tr align="center"><td>E-mail : reservations@touringcnx.com, touringcenter@hotmail.com</td></tr>
+                    </table><br>
+                    </div>
+                    </div>
+                    <table width="800" cellspacing="1" cellpadding="0">
+                    <tr><td><a href="http://tour-in-chiangmai.com/doi-suthep-temple-&-hmong-hill-tribe-village.php" target="_blank"><img src="http://tour-in-chiangmai.com/images/mail/doisuthep.jpg"></a></td><td><a href="http://tour-in-chiangmai.com/chiang-rai-one-day-trip.php" target="_blank"><img src="http://tour-in-chiangmai.com/images/mail/chiangrai.jpg"></a></td><td><a href="http://tour-in-chiangmai.com/elephant-at-work.php" target="_blank"><img src="http://tour-in-chiangmai.com/images/mail/chang.jpg"></a></td><td><a href="http://tour-in-chiangmai.com/inthanon-national-park.php" target="_blank"><img src="http://tour-in-chiangmai.com/images/mail/inthanon.jpg"></a></td></tr>
+                    </table></center>
+          
